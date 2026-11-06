@@ -1,0 +1,10 @@
+metric,value
+train_rows,840
+val_rows,180
+test_rows,180
+train_delayed,195
+val_delayed,42
+test_delayed,41
+chosen_tree_depth,6
+chosen_tuning_candidate,default_forest_same_7_features
+chosen_threshold,0.5
